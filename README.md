@@ -103,5 +103,5 @@ This project demonstrates how to use Power BI for cleaning data, building data m
 For any queries or collaboration opportunities, feel free to connect:
 
 **Mahendar Dommati**  
-[GitHub Profile](https://github.com/your-profile)  
-[LinkedIn Profile](https://linkedin.com/in/your-profile)
+[GitHub Profile](https://github.com/viv-05-art)  
+[LinkedIn Profile](https://www.linkedin.com/in/mahendar-dommati-682705229/)
